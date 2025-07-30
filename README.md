@@ -165,7 +165,7 @@ thought_anchors/
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you use this code in your research, please cite the original paper:
 
 ```bibtex
 @article{bogdan2024thought,
@@ -175,6 +175,8 @@ If you use this code in your research, please cite:
   year={2024}
 }
 ```
+
+**Note**: This repository is an implementation of the methods described in the above paper. When using this code, please cite the original paper authors, not the repository maintainers.
 
 ## Contributing
 
